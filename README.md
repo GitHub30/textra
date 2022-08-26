@@ -14,7 +14,7 @@ pip install textra
 
 ```bash
 $ trans --help
-usage: trans [-h] [--name NAME] [--key KEY] [--secret SECRET] [-s SOURCE] [-t TARGET] text
+usage: trans [-h] [--name NAME] [--key KEY] [--secret SECRET] [--engine ENGINE] [-s SOURCE] [-t TARGET] text
 
 positional arguments:
   text
