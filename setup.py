@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='textra',
-    version='0.4',
+    version='0.5',
     description='Machine translation for Everyone',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
