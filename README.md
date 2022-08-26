@@ -21,9 +21,10 @@ positional arguments:
 
 options:
   -h, --help            show this help message and exit
-  --name NAME           login id
+  --name NAME           User ID
   --key KEY
   --secret SECRET
+  -e ENGINE, --engine ENGINE
   -s SOURCE, --source SOURCE
   -t TARGET, --target TARGET
 ```
