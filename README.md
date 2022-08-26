@@ -2,7 +2,7 @@
 [![PyPI](https://badge.fury.io/py/textra.svg)](https://badge.fury.io/py/textra)
 
 # @TexTra
-Machine translation for everyone
+Machine translation for Everyone
 
 # Install
 
