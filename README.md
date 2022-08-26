@@ -1,6 +1,12 @@
 # @TexTra
 Machine translation for everyone
 
+# Install
+
+```bash
+pip install textra
+```
+
 # Usage
 
 ```bash
