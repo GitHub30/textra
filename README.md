@@ -1,4 +1,4 @@
-# textra
+# @TexTra
 Machine translation for everyone
 
 # Usage
