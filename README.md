@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/pypi/pyversions/textra.svg)](https://badge.fury.io/py/textra)
+[![PyPI](https://badge.fury.io/py/textra.svg)](https://badge.fury.io/py/textra)
+
 # @TexTra
 Machine translation for everyone
 
