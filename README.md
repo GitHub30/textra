@@ -29,7 +29,7 @@ options:
 
 ```bash
 $ trans 'I am God. You are Dog.'
-俺は神だお前は犬だ
+私は神だお前は犬だ
 ```
 
 ```bash
