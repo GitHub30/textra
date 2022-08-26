@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='textra',
-    version='0.3',
-    description='Machine translation for everyone',
+    version='0.4',
+    description='Machine translation for Everyone',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/GitHub30/textra',
